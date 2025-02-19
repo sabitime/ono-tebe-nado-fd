@@ -48,10 +48,6 @@
   align-self: center;
 }
 
-.header_link_active .header_link {
-  text-decoration: none;
-}
-
 .header__links-list-item {
   font-size: 18px;
   font-weight: 400;
