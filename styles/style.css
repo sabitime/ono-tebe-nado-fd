@@ -259,10 +259,6 @@
   gap: 25px;
 }
 
-.about__text-column :last-child {
-  gap: 0px;
-}
-
 .about__text {
   font-size: 20px;
   font-weight: 400;
@@ -284,11 +280,6 @@
   height: 114px;
   margin-left: 46px;
   margin-top: 65px;
-}
-
-.header_logo {
-  align-self: center;
-  justify-content: center;
 }
 
 .footer {
